@@ -1,0 +1,68 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html {
+    font-size: 62.5%;
+}
+
+body {
+    width: 100%;
+}
+
+div {
+    width: 200px;
+    height: 200px;
+    margin: 20px auto;
+    background-color: black;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.first {
+    background-size: cover;
+}
+
+#nbr1 {
+    background-image: url("exo-25/hunger-games.jpeg");
+}
+
+#nbr2 {
+    background-image: url("exo-25/Jeremy-Renner.jpg");
+}
+
+#nbr3 {
+    background-image: url("exo-25/legolas.jpg");
+    background-position: left;
+}
+
+#nbr4 {
+    background-image: url("exo-25/rebelle.jpg");
+}
+
+#nbr5 {
+    background-image: url("exo-25/tauriel.jpeg");
+}
+
+#nbr6 {
+    background-image: url("exo-25/TirArc.jpg");
+}
+
+#nbr7 {
+    background-image: url("exo-25/tirArc02.jpg");
+}
+
+#nbr8 {
+    background-image: url("exo-25/tirArc04.png");
+}
+
+#nbr9 {
+    background-image: url("exo-25/fond-ciel-cible.jpg");
+}
+
+#nbr10 {
+    background-image: url("exo-25/TirArc10.jpg");
+}
