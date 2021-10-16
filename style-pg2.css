@@ -20,6 +20,8 @@ div {
     background-size: contain;
     background-repeat: no-repeat;
     background-position: center;
+    box-shadow: 15px 10px 8px gray;
+    border-radius: 15px;
 }
 
 .first {
@@ -28,41 +30,54 @@ div {
 
 #nbr1 {
     background-image: url("exo-25/hunger-games.jpeg");
+    border: black solid 3px;
 }
 
 #nbr2 {
     background-image: url("exo-25/Jeremy-Renner.jpg");
+    border: blue 4px outset;
 }
 
 #nbr3 {
     background-image: url("exo-25/legolas.jpg");
     background-position: left;
+    border: green dashed 3px;
 }
 
 #nbr4 {
     background-image: url("exo-25/rebelle.jpg");
+    border: midnightblue double 6px;
 }
 
 #nbr5 {
     background-image: url("exo-25/tauriel.jpeg");
+    border: darkslategrey groove 6px;
 }
 
 #nbr6 {
     background-image: url("exo-25/TirArc.jpg");
+    border: darkcyan ridge 6px;
 }
 
 #nbr7 {
     background-image: url("exo-25/tirArc02.jpg");
+    border-top: black 5px solid;
+    border-left: black 5px solid;
 }
 
 #nbr8 {
     background-image: url("exo-25/tirArc04.png");
+    border-radius:50%;
+    border: darkviolet 2px solid;
 }
 
 #nbr9 {
     background-image: url("exo-25/fond-ciel-cible.jpg");
+    border-top: darkcyan 5px solid;
+    border-bottom: darkcyan 5px solid;
 }
 
 #nbr10 {
     background-image: url("exo-25/TirArc10.jpg");
+    border: none;
 }
